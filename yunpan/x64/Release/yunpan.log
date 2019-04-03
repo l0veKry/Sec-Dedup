@@ -1,0 +1,32 @@
+﻿生成启动时间为 2017/4/7 17:55:10。
+     1>项目“C:\Users\Administrator\Desktop\vs\yunpan\yunpan\yunpan.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt MySQLManager.cpp user.cpp yunpan.cpp
+         MySQLManager.cpp
+     1>MySQLManager.cpp(197): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+     1>MySQLManager.cpp(221): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MySQLManager.cpp(233): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+     1>MySQLManager.cpp(276): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+     1>MySQLManager.cpp(295): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MySQLManager.cpp(305): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+         user.cpp
+         yunpan.cpp
+     1>yunpan.cpp(204): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\vs\yunpan\x64\Release\yunpan.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\vs\yunpan\x64\Release\yunpan.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\vs\yunpan\x64\Release\yunpan.lib" /MACHINE:X64 x64\Release\cauchy_best_r6.obj
+         x64\Release\galois.obj
+         x64\Release\jerasure.obj
+         x64\Release\liberation.obj
+         x64\Release\MySQLManager.obj
+         x64\Release\reed_sol.obj
+         x64\Release\user.obj
+         x64\Release\yunpan.obj
+     1>yunpan.obj : error LNK2001: 无法解析的外部符号 OPENSSL_init_crypto
+     1>yunpan.obj : error LNK2001: 无法解析的外部符号 TLS_server_method
+     1>yunpan.obj : error LNK2001: 无法解析的外部符号 OPENSSL_init_ssl
+     1>C:\Users\Administrator\Desktop\vs\yunpan\x64\Release\yunpan.exe : fatal error LNK1120: 3 个无法解析的外部命令
+     1>已完成生成项目“C:\Users\Administrator\Desktop\vs\yunpan\yunpan\yunpan.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.64

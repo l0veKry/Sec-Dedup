@@ -1,0 +1,84 @@
+﻿生成启动时间为 2017/4/7 17:03:33。
+     1>项目“C:\Users\Administrator\Desktop\vs\yunpan\yunpan\yunpan.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt cauchy_best_r6.c galois.c jerasure.c liberation.c reed_sol.c
+         reed_sol.c
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\reed_sol.c(66): warning C4101: “index”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\reed_sol.c(65): warning C4101: “tmp”: 未引用的局部变量
+         liberation.c
+         jerasure.c
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(156): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(288): warning C4101: “init”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(289): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(626): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(764): warning C4101: “ptrs”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1000): warning C4101: “ptrs”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(999): warning C4101: “i”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(999): warning C4101: “tdone”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1001): warning C4101: “schedule”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1128): warning C4101: “l”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1182): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1354): warning C4129: “%”: 不可识别的字符转义序列
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1350): warning C4101: “y”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1350): warning C4101: “x”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1350): warning C4101: “pstarted”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1350): warning C4101: “index”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1351): warning C4101: “pptr”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1350): warning C4101: “sptr”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1351): warning C4101: “dptr”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\jerasure.c(1350): warning C4101: “j”: 未引用的局部变量
+         galois.c
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(553): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(610): warning C4101: “ind”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(608): warning C4101: “mat”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(610): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(609): warning C4101: “inv”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(610): warning C4101: “prod”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(610): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(674): warning C4101: “cp”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(675): warning C4101: “lptop”: 未引用的局部变量
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\galois.c(675): warning C4101: “lp2”: 未引用的局部变量
+         cauchy_best_r6.c
+         正在生成代码...
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MySQLManager.cpp user.cpp yunpan.cpp
+         yunpan.cpp
+         user.cpp
+         MySQLManager.cpp
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\mysqlmanager.cpp(197): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\vs\yunpan\yunpan\mysqlmanager.cpp(276): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\vs\yunpan\Debug\yunpan.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\vs\yunpan\Debug\yunpan.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\vs\yunpan\Debug\yunpan.lib" /MACHINE:X86 Debug\cauchy_best_r6.obj
+         Debug\galois.obj
+         Debug\jerasure.obj
+         Debug\liberation.obj
+         Debug\MySQLManager.obj
+         Debug\reed_sol.obj
+         Debug\user.obj
+         Debug\yunpan.obj
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_num_rows@4，该符号在函数 "public: int __thiscall MySQLManager::getFiles(char *,int,int,char * *)" (?getFiles@MySQLManager@@QAEHPADHHPAPAD@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_error@4，该符号在函数 "public: __thiscall MySQLManager::MySQLManager(char *,char *,char *,char *)" (??0MySQLManager@@QAE@PAD000@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，该符号在函数 "public: __thiscall MySQLManager::MySQLManager(char *,char *,char *,char *)" (??0MySQLManager@@QAE@PAD000@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，该符号在函数 "public: __thiscall MySQLManager::MySQLManager(char *,char *,char *,char *)" (??0MySQLManager@@QAE@PAD000@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_real_query@12，该符号在函数 "public: __thiscall MySQLManager::MySQLManager(char *,char *,char *,char *)" (??0MySQLManager@@QAE@PAD000@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_store_result@4，该符号在函数 "private: struct st_mysql_res * __thiscall MySQLManager::runSQL(char const *)" (?runSQL@MySQLManager@@AAEPAUst_mysql_res@@PBD@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_ping@4，该符号在函数 "private: struct st_mysql_res * __thiscall MySQLManager::runSQL(char const *)" (?runSQL@MySQLManager@@AAEPAUst_mysql_res@@PBD@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_options@12，该符号在函数 "public: __thiscall MySQLManager::MySQLManager(char *,char *,char *,char *)" (??0MySQLManager@@QAE@PAD000@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_free_result@4，该符号在函数 "private: bool __thiscall MySQLManager::cutID(char *,int)" (?cutID@MySQLManager@@AAE_NPADH@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_row@4，该符号在函数 "private: bool __thiscall MySQLManager::cutID(char *,int)" (?cutID@MySQLManager@@AAE_NPADH@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_stmt_init@4，该符号在函数 "public: __thiscall MySQLManager::MySQLManager(char *,char *,char *,char *)" (??0MySQLManager@@QAE@PAD000@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_stmt_prepare@12，该符号在函数 "public: __thiscall MySQLManager::MySQLManager(char *,char *,char *,char *)" (??0MySQLManager@@QAE@PAD000@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_stmt_execute@4，该符号在函数 "public: bool __thiscall MySQLManager::personInsert(char *,char *,char *,char *,int)" (?personInsert@MySQLManager@@QAE_NPAD000H@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_stmt_bind_param@8，该符号在函数 "public: bool __thiscall MySQLManager::personInsert(char *,char *,char *,char *,int)" (?personInsert@MySQLManager@@QAE_NPAD000H@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_stmt_close@4，该符号在函数 "public: __thiscall MySQLManager::~MySQLManager(void)" (??1MySQLManager@@QAE@XZ) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_stmt_error@4，该符号在函数 "public: int __thiscall MySQLManager::writeFile(char *,char *,int,int,char *,char *,int,int,int)" (?writeFile@MySQLManager@@QAEHPAD0HH00HHH@Z) 中被引用
+     1>MySQLManager.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，该符号在函数 "public: __thiscall MySQLManager::~MySQLManager(void)" (??1MySQLManager@@QAE@XZ) 中被引用
+     1>yunpan.obj : error LNK2019: 无法解析的外部符号 _OPENSSL_init_crypto，该符号在函数 _main 中被引用
+     1>yunpan.obj : error LNK2019: 无法解析的外部符号 _TLS_server_method，该符号在函数 _main 中被引用
+     1>yunpan.obj : error LNK2019: 无法解析的外部符号 _OPENSSL_init_ssl，该符号在函数 _main 中被引用
+     1>C:\Users\Administrator\Desktop\vs\yunpan\Debug\yunpan.exe : fatal error LNK1120: 20 个无法解析的外部命令
+     1>已完成生成项目“C:\Users\Administrator\Desktop\vs\yunpan\yunpan\yunpan.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.19
